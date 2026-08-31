@@ -1,0 +1,54 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" rx="24" fill="#0F172A"/>
+  <rect x="1" y="1" width="1198" height="598" rx="23" stroke="#334155" stroke-width="2"/>
+  
+  <rect x="40" y="30" width="1120" height="80" rx="20" fill="#1E293B" stroke="#334155"/>
+  <text x="70" y="65" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">MASTER ADMINISTRATION</text>
+  <text x="70" y="92" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="900">Mobilezone Control Panel &amp; Inventory Suite</text>
+  <rect x="980" y="48" width="150" height="44" rx="12" fill="#2563EB"/>
+  <text x="1005" y="75" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">+ Add Product</text>
+
+  <rect x="40" y="130" width="260" height="100" rx="16" fill="#1E293B" stroke="#334155"/>
+  <text x="60" y="160" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">TOTAL REVENUE</text>
+  <text x="60" y="195" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="26" font-weight="900">$148,920</text>
+  <text x="60" y="218" fill="#10B981" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">+18.4% this month</text>
+
+  <rect x="325" y="130" width="260" height="100" rx="16" fill="#1E293B" stroke="#334155"/>
+  <text x="345" y="160" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">ORDERS PLACED</text>
+  <text x="345" y="195" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="26" font-weight="900">1,248</text>
+  <text x="345" y="218" fill="#3B82F6" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">98.6% delivered</text>
+
+  <rect x="610" y="130" width="260" height="100" rx="16" fill="#1E293B" stroke="#334155"/>
+  <text x="630" y="160" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">ACTIVE CATALOG</text>
+  <text x="630" y="195" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="26" font-weight="900">17 Products</text>
+  <text x="630" y="218" fill="#A855F7" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">Across 8 categories</text>
+
+  <rect x="895" y="130" width="265" height="100" rx="16" fill="#1E293B" stroke="#334155"/>
+  <text x="915" y="160" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">STORE RATING</text>
+  <text x="915" y="195" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="26" font-weight="900">4.9 / 5.0</text>
+  <text x="915" y="218" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">4,890 reviews</text>
+
+  <rect x="40" y="250" width="1120" height="310" rx="20" fill="#1E293B" stroke="#334155"/>
+  <text x="70" y="285" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">Live Customer Orders &amp; Fulfillment Queue</text>
+  
+  <rect x="60" y="305" width="1080" height="35" rx="8" fill="#0F172A"/>
+  <text x="80" y="328" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">ORDER REF</text>
+  <text x="240" y="328" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">CUSTOMER</text>
+  <text x="450" y="328" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">ITEMS</text>
+  <text x="750" y="328" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">TOTAL</text>
+  <text x="900" y="328" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">STATUS</text>
+
+  <text x="80" y="370" fill="#38BDF8" font-family="monospace" font-size="13" font-weight="bold">#MZ-89241</text>
+  <text x="240" y="370" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="semibold">Alex Reynolds</text>
+  <text x="450" y="370" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="13">Apple iPhone 16 Pro Max + Spigen Case</text>
+  <text x="750" y="370" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">$1,228.99</text>
+  <rect x="900" y="353" width="100" height="26" rx="8" fill="#F59E0B" fill-opacity="0.2"/>
+  <text x="915" y="370" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Processing</text>
+
+  <text x="80" y="420" fill="#38BDF8" font-family="monospace" font-size="13" font-weight="bold">#MZ-78192</text>
+  <text x="240" y="420" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="semibold">Elena Rostova</text>
+  <text x="450" y="420" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="13">Samsung Galaxy S24 Ultra 5G</text>
+  <text x="750" y="420" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">$1,149.00</text>
+  <rect x="900" y="403" width="100" height="26" rx="8" fill="#3B82F6" fill-opacity="0.2"/>
+  <text x="925" y="420" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Shipped</text>
+</svg>

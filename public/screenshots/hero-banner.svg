@@ -1,0 +1,47 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" rx="24" fill="#0B0F19"/>
+  <rect x="1" y="1" width="1198" height="598" rx="23" stroke="#1E293B" stroke-width="2"/>
+  <defs>
+    <radialGradient id="heroGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 300) rotate(90) scale(400)">
+      <stop stop-color="#3B82F6" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="900" cy="300" r="350" fill="url(#heroGlow)"/>
+  
+  <rect x="60" y="80" width="180" height="32" rx="16" fill="#06B6D4" fill-opacity="0.15" stroke="#06B6D4" stroke-opacity="0.3"/>
+  <text x="80" y="101" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">FLAGSHIP SHOWCASE</text>
+  
+  <text x="60" y="165" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="44" font-weight="900">Apple iPhone 16 Pro Max</text>
+  <text x="60" y="205" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="16">Titanium Grade 5. Next-gen A18 Pro 3nm Silicon. 48MP Pro Fusion System.</text>
+  
+  <rect x="60" y="250" width="140" height="65" rx="14" fill="#1E293B" stroke="#334155"/>
+  <text x="75" y="278" fill="#64748B" font-family="system-ui, sans-serif" font-size="11">Chipset</text>
+  <text x="75" y="300" fill="#F1F5F9" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">Apple A18 Pro</text>
+  
+  <rect x="215" y="250" width="140" height="65" rx="14" fill="#1E293B" stroke="#334155"/>
+  <text x="230" y="278" fill="#64748B" font-family="system-ui, sans-serif" font-size="11">Display</text>
+  <text x="230" y="300" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">6.9 120Hz OLED</text>
+  
+  <rect x="370" y="250" width="140" height="65" rx="14" fill="#1E293B" stroke="#334155"/>
+  <text x="385" y="278" fill="#64748B" font-family="system-ui, sans-serif" font-size="11">Battery</text>
+  <text x="385" y="300" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">33h Video</text>
+  
+  <text x="60" y="380" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="40" font-weight="900">$1,199</text>
+  <rect x="220" y="342" width="150" height="50" rx="14" fill="url(#btnGrad)"/>
+  <text x="252" y="373" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">Add to Cart</text>
+  
+  <rect x="385" y="342" width="150" height="50" rx="14" fill="#1E293B" stroke="#475569"/>
+  <text x="408" y="373" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="14" font-weight="semibold">View 5 Angles</text>
+
+  <rect x="680" y="70" width="460" height="460" rx="28" fill="#1E293B" fill-opacity="0.5" stroke="#334155"/>
+  <rect x="800" y="100" width="220" height="400" rx="40" fill="#0F172A" stroke="#64748B" stroke-width="4"/>
+  <rect x="812" y="112" width="196" height="376" rx="32" fill="#1E293B"/>
+  <circle cx="910" cy="130" r="6" fill="#000000"/>
+  <text x="835" y="220" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">Mobilezone</text>
+  <text x="835" y="250" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="26" font-weight="900">Titanium</text>
+</svg>
