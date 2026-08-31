@@ -26,7 +26,6 @@ A premier, fully responsive e-commerce web application engineered with **React 1
   - [8. Cart, Coupon Engine & 3-Step Checkout](#8-cart-coupon-engine--3-step-checkout)
 - [🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
 - [🚀 Quick Start & Installation](#-quick-start--installation)
-- [🔑 Demo Login Credentials](#-demo-login-credentials)
 - [📂 Project Directory Structure](#-project-directory-structure)
 
 ---
@@ -137,21 +136,6 @@ Open your browser at **`http://localhost:5173`**.
 npm run build
 npm run preview
 ```
-
----
-
-## 🔑 Demo Login Credentials
-
-Click **"👤 Sign In"** in the top navigation bar:
-
-- **👑 1-Click Demo Admin**:
-  - **Email**: `admin@mobilezone.com`
-  - **Password**: `admin123`
-  - *Unlocks the full **Admin Control Panel** in the navigation bar.*
-
-- **👤 1-Click Demo Customer**:
-  - **Email**: `alex.reynolds@example.com`
-  - **Password**: `user123`
 
 ---
 
